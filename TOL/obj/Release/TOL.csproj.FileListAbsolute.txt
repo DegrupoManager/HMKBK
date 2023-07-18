@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\HMKBE\TOL\bin\Release\TOL.dll
+C:\Users\Administrator\source\repos\HMKBE\TOL\bin\Release\TOL.pdb
+C:\Users\Administrator\source\repos\HMKBE\TOL\obj\Release\TOL.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\HMKBE\TOL\obj\Release\TOL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HMKBE\TOL\obj\Release\TOL.dll
+C:\Users\Administrator\source\repos\HMKBE\TOL\obj\Release\TOL.pdb

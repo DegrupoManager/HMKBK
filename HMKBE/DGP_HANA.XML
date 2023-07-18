@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<AplicacionComplementaria>  
+	<Version>1.1</Version>  
+    	<CatalogoHana>SBO_TEST_240523_PE</CatalogoHana>  
+	<UserSAP>manager</UserSAP>  
+	<PwdSAP>15agosto</PwdSAP> 
+	<Server>10.171.151.202:30015</Server>  
+	<LicenseServer>10.171.151.202:40000</LicenseServer>  
+	<UserHana>B1ADMIN</UserHana> 
+	<PwdHana>uOAQhY09xk</PwdHana>    
+</AplicacionComplementaria>  
